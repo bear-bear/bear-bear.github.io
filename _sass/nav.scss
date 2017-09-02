@@ -1,0 +1,21 @@
+nav {
+    margin-top: 60px;
+    ul {
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+        padding: 0px;
+        list-style: none;
+        font-weight: bold;
+        li {
+            display: inline;
+            margin-right: 25px;
+        }
+    }
+
+    a {
+        text-decoration: none;
+        color: #999;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+}
