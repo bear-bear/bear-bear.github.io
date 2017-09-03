@@ -1,0 +1,25 @@
+<h1>Publications</h1>
+<ul>
+{% for p in site.data.publications %}
+    <li>
+        <p>{{ p.title }}</p>
+        <ul>
+            {% if p.pdf %}
+            <li><a href="{{ p.pdf }}">pdf</a></li>
+            {% endif %}
+            {% if p.ppt %}
+            <li><a href="{{ p.ppt }}">talk</a></li>
+            {% endif %}
+            {% if p.doi %}
+            <li><a href="{{ p.doi-link }}">doi</a></li>
+            {% endif %}
+            {% if p.website %}
+            <li><a href="{{ p.website }}">website</a></li>
+            {% endif %}
+            {% if p.video %}
+            <li><a href="{{ p.video }}">video</a></li>
+            {% endif %}
+        </ul>
+    </li>
+{% endfor %}
+</ul>

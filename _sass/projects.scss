@@ -4,17 +4,22 @@
     h1 {
         font-size: 2em;
     }
+    .card-img-top {
+        padding: 5px;
+    }
     .card-block {
         margin-top: 10px;
         margin-right: 20px;
         p {
             text-align: justify;
+            line-height: 1.2em;
         }
         ul {
+            margin-top: 0em;
             li {
+                font-size: 1em;
                 a {
                     text-decoration: none;
-                    color: #333;
                 }
             }
         }
