@@ -2,9 +2,12 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-// Imports
-// @import "base";
-// @import "type";
-// @import "code";
+body {
+    margin-bottom: 60px;
+}
+
 @import "nav";
-@import "blurb";
+@import "contact";
+@import "bio";
+@import "news";
+@import "projects";

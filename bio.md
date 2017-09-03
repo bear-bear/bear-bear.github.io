@@ -1,3 +1,0 @@
-I am currently a fifth year Ph.D. student at Computer Science Department at Stony Brook University while working as a research assistant at the Visual Analytics and Imaging (VAI) Lab following Professor Klaus Mueller. I interned at VISA Research during the summer of 2016. Before coming to the US, I obtained both my Master degree in Computer Science and Bachelor degree in Software Engineering at Shandong University, China.<br><br>
-
-My research interests are in visual analytics, visualization, data mining, and high performance computing on GPUs.

@@ -1,0 +1,22 @@
+<h1>Current Main Projects</h1>
+    {% for p in site.data.projects %}
+    <div class="card">
+        <div class="row">
+            <div class="col-md-3">
+                <img class="card-img-top" src="{{ p.teasor }}" alt="{{ p.title }}">
+            </div>
+            <div class="col-md-9">
+                <div class="card-block">
+                    <h4 class="card-title">{{ p.title }}</h4>
+                    <p class="card-text">{{ p.abstract }}</p>
+                    <ul>
+                        {% for m in p.papers %}
+                        <li>{{ m }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    {% endfor %}

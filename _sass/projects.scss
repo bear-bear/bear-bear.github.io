@@ -1,0 +1,23 @@
+.projects {
+    margin-top: 20px;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    h1 {
+        font-size: 2em;
+    }
+    .card-block {
+        margin-top: 10px;
+        margin-right: 20px;
+        p {
+            text-align: justify;
+        }
+        ul {
+            li {
+                a {
+                    text-decoration: none;
+                    color: #333;
+                }
+            }
+        }
+    }
+    
+}

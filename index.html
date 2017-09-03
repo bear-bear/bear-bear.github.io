@@ -18,9 +18,21 @@ title: Jun Wang
     </div>
 
     <div class="col-9">
-        <div class="bio">
-            <h1>About me</h1>
-            <p>{% include_relative bio.md %}</p>
+        <div class="row">
+                <div class="bio">
+                    {% include bio.html %}
+                </div>
         </div>
+        <div class="row">
+            <div class="news">
+                {% include news.html %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="projects">
+        {% include projects.html %}            
     </div>
 </div>
