@@ -2,12 +2,12 @@
   teasor: "img/vca_teaser.png"
   abstract: A general and comprehensive visual analytic system for learning causal graph models embedded in multi-dimensional datasets. Taking advantage of both automated algorithms and interactive approaches, the system gets domain users involved in the loop of causal reasoning and is applicable to data in a wide scope of domains. The system is also novel in that it can handle both numeric and categorical variables within one unified model and return plausible results.
   papers:
-      - <strong>J. Wang</strong> and K. Muller, "<a href="docs/VAST17.pdf">Visual Causality Analysis Made Practical</a>," (to appear) in IEEE Proc. conference on Visual Analytics Science and Technology (VAST), Pheonix, AZ, Oct. 2017
-      - <strong>J. Wang</strong> and K. Muller, "<a href="docs/VAST16.pdf">The Visual Causality Analyst&#58; An Interactive Interface for Causal Reasoning</a>," IEEE Transaction on Visualization and Computer Graphics, vol. 22, no. 1, pp. 230-239, 2016.
+      - <strong>J. Wang</strong> and K. Muller, "<a href="docs/VAST17.pdf" target="new">Visual Causality Analysis Made Practical</a>," (to appear) in IEEE Proc. conference on Visual Analytics Science and Technology (VAST), Pheonix, AZ, Oct. 2017
+      - <strong>J. Wang</strong> and K. Muller, "<a href="docs/VAST16.pdf" target="new">The Visual Causality Analyst&#58; An Interactive Interface for Causal Reasoning</a>," IEEE Transaction on Visualization and Computer Graphics, vol. 22, no. 1, pp. 230-239, 2016.
 
 - title: Spectra Miner
   teasor: "img/sm_teaser.png"
   abstract: A visual analytic framework for analyzing hierarchical relations embedded in a high-dimensional and large-scale dataset, equipped with parallel algorithms implemented on GPU for fast clustering of data and learning the hierarchy. The system is developed intending to facilitate scientific analysis in the domain of aerosol science.
   papers:
-      - <strong>J. Wang</strong>, A. Zelenyuk, D. Imre, and K. Mueller, "<a href="docs/informatics-04-00024.pdf">Big Data Management with Incremental K-Means Trees–GPU-Accelerated Construction and Visualization</a>," Informatics, vol. 4, no. 3, pp. 24, 2017
-      - <strong>J. Wang</strong>, E. Papenhausen, B. Wang, S. Ha, A. Zelenyuk, and K. Mueller, "<a href="docs/NYSDS17.pdf">Progressive Clustering of Big Data with GPU Acceleration and Visualization</a>," in IEEE Proc. New York Scientific Data Summit (NYSDS), New York, Aug. 2017
+      - <strong>J. Wang</strong>, A. Zelenyuk, D. Imre, and K. Mueller, "<a href="docs/informatics-04-00024.pdf" target="new">Big Data Management with Incremental K-Means Trees–GPU-Accelerated Construction and Visualization</a>," Informatics, vol. 4, no. 3, pp. 24, 2017
+      - <strong>J. Wang</strong>, E. Papenhausen, B. Wang, S. Ha, A. Zelenyuk, and K. Mueller, "<a href="docs/NYSDS17.pdf" target="new">Progressive Clustering of Big Data with GPU Acceleration and Visualization</a>," in IEEE Proc. New York Scientific Data Summit (NYSDS), New York, Aug. 2017

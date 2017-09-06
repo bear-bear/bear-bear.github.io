@@ -5,19 +5,19 @@
         <p>{{ p.title }}</p>
         <ul>
             {% if p.pdf %}
-            <li><a href="{{ p.pdf }}">pdf</a></li>
+            <li><a href="{{ p.pdf }}" target="new">pdf</a></li>
             {% endif %}
             {% if p.ppt %}
             <li><a href="{{ p.ppt }}">talk</a></li>
             {% endif %}
             {% if p.doi %}
-            <li><a href="{{ p.doi-link }}">doi</a></li>
+            <li><a href="{{ p.doi-link }}" target="new">doi</a></li>
             {% endif %}
             {% if p.website %}
-            <li><a href="{{ p.website }}">website</a></li>
+            <li><a href="{{ p.website }}" target="new">website</a></li>
             {% endif %}
             {% if p.video %}
-            <li><a href="{{ p.video }}">video</a></li>
+            <li><a href="{{ p.video }}" target="new">video</a></li>
             {% endif %}
         </ul>
     </li>
