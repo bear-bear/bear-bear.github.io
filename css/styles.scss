@@ -3,7 +3,12 @@
 ---
 
 body {
-    margin-bottom: 60px;
+    background-image: url("../img/background.jpg");
+
+    .container {
+        background-color: #fff;
+        padding: 60px;
+    }
 }
 
 @import "nav";
@@ -12,3 +17,4 @@ body {
 @import "news";
 @import "projects";
 @import "publications";
+@import "life";
