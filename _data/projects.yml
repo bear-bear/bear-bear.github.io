@@ -1,6 +1,6 @@
 - title: Visual Causality Analyst
   teasor: "img/vca_teaser.png"
-  abstract: A general and comprehensive visual analytic system for learning causal graph models embedded in multi-dimensional datasets. Taking advantage of both automated algorithms and interactive approaches, the system gets domain users involved in the loop of causal reasoning and is applicable to data in a wide scope of domains. The system is also novel in that it can handle both numeric and categorical variables within one unified model and return plausible results.
+  abstract: A general and comprehensive visual analytic system for learning causal graph models embedded in multi-dimensional datasets. Taking advantage of both automated algorithms and interactive approaches, the system gets domain users involved in the loop of causal reasoning and is applicable to data in a wide scope of domains.
   papers:
       - <strong>J. Wang</strong> and K. Muller, "<a href="docs/VAST17.pdf" target="new">Visual Causality Analysis Made Practical</a>," (to appear) in IEEE Proc. conference on Visual Analytics Science and Technology (VAST), Pheonix, AZ, Oct. 2017
       - <strong>J. Wang</strong> and K. Muller, "<a href="docs/VAST16.pdf" target="new">The Visual Causality Analyst&#58; An Interactive Interface for Causal Reasoning</a>," IEEE Transaction on Visualization and Computer Graphics, vol. 22, no. 1, pp. 230-239, 2016.
