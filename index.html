@@ -1,0 +1,48 @@
+---
+layout: default
+title: Jun Wang's Website
+---
+
+<div class="row">
+    <div class="col-3">
+        <div class="contact">
+            <img src="{{ site.baseurl }}/img/me.png" class="img-thumbnail" alt="picture of me" width="180px">
+            <h1>Jun Wang</h1>
+            <p>PhD candidate at<br> Computer Science Deparment<br>Stony Brook University</p>
+            <p class="email">Email: junwang2 AT cs.stonybrook.edu</p>
+            <ul>
+                <li><a href="https://www.linkedin.com/in/jwang1004/" target="new"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a></li>
+                <li><a href="https://scholar.google.com/citations?user=01hOzYQAAAAJ&hl=en" target="new"><i class="ai ai-google-scholar-square ai-2x" aria-hidden="true"></i></a></li>
+                <li><a href="https://github.com/junwang23" target="new"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a></li>
+                <!-- <li><a href="https://bl.ocks.org/junwang23" target="new"><i class="fa fa-cubes fa-2x" aria-hidden="true"></i></a></li> -->
+            </ul>
+        </div>
+    </div>
+
+    <div class="col-9">
+        <div class="row">
+                <div class="bio">
+                    {% include bio.html %}
+                </div>
+        </div>
+        <div class="row">
+            <div class="news">
+                {% include news.html %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="projects">
+        <a name="proj" class="smoothScroll"></a>
+        {% include projects.html %}            
+    </div>
+</div>
+
+<div class="row">
+    <div class="publications">
+        <a name="pub" class="smoothScroll"></a>
+        {% include publications.html %}            
+    </div>
+</div>
