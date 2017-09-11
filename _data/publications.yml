@@ -1,21 +1,21 @@
-- title: <strong>J. Wang</strong> and K. Muller, "Visual Causality Analysis Made Practical," (to appear) in IEEE Proc. conference on Visual Analytics Science and Technology (VAST), Pheonix, AZ, Oct. 2017
+- title: <strong>J. Wang</strong> and K. Muller, "Visual Causality Analysis Made Practical," (to appear) in <i>IEEE Proc. Visual Analytics Science and Technology (VAST17), Pheonix, AZ, Oct. 2017</i>
   pdf: docs/VAST17.pdf
   website: "http://www3.cs.stonybrook.edu/~mueller/research/pages/practicalVisualCausality/"
   video: "https://www.youtube.com/watch?time_continue=1&v=nbHOBIlEzt4"
 
-- title: <strong>J. Wang</strong>, "Visual Causality Analysis", (to appear) in IEEE VIS Doctoral Colloquium, Pheonix, AZ, Oct. 2017
+- title: <strong>J. Wang</strong>, "Visual Causality Analysis", (to appear) in <i>IEEE VIS Doctoral Colloquium, Pheonix, AZ, Oct. 2017</i>
   pdf: docs/VAST17DC.pdf
 
-- title: <strong>J. Wang</strong>, A. Zelenyuk, D. Imre, and K. Mueller, "Big Data Management with Incremental K-Means Trees–GPU-Accelerated Construction and Visualization," Informatics, vol. 4, no. 3, pp. 24, 2017
+- title: <strong>J. Wang</strong>, A. Zelenyuk, D. Imre, and K. Mueller, "Big Data Management with Incremental K-Means Trees–GPU-Accelerated Construction and Visualization," <i>Informatics, vol. 4, no. 3, pp. 24, 2017</i>
   pdf: docs/informatics-04-00024.pdf
   doi: 10.3390/informatics4030024
   doi-link: http://dx.doi.org/10.3390/informatics4030024
 
-- title: <strong>J. Wang</strong>, E. Papenhausen, B. Wang, S. Ha, A. Zelenyuk, and K. Mueller, "Progressive Clustering of Big Data with GPU Acceleration and Visualization," in IEEE Proc. New York Scientific Data Summit (NYSDS), New York, Aug. 2017
+- title: <strong>J. Wang</strong>, E. Papenhausen, B. Wang, S. Ha, A. Zelenyuk, and K. Mueller, "Progressive Clustering of Big Data with GPU Acceleration and Visualization," in <i>IEEE Proc. New York Scientific Data Summit (NYSDS), New York, Aug. 2017</i>
   pdf: docs/NYSDS17.pdf
   ppt: docs/NYSDS17talk.ppsx
 
-- title: <strong>J. Wang</strong> and K. Muller, "The Visual Causality Analyst&#58; An Interactive Interface for Causal Reasoning," IEEE Transaction on Visualization and Computer Graphics, vol. 22, no. 1, pp. 230-239, 2016
+- title: <strong>J. Wang</strong> and K. Muller, <i>"The Visual Causality Analyst&#58; An Interactive Interface for Causal Reasoning," IEEE Transaction on Visualization and Computer Graphics (VAST15), vol. 22, no. 1, pp. 230-239, 2016</i>
   pdf: docs/VAST15.pdf
   ppt: docs/VAST15talk.ppsx
   doi: 10.1109/TVCG.2015.2467931
@@ -23,7 +23,7 @@
   website: "http://www3.cs.stonybrook.edu/~mueller/research/pages/visualCausalityAnalyst/"
   video: "https://www.youtube.com/watch?v=CHB1ZejXhsA"
 
-- title: A. Zelenyuk, D. Imre, J. Wilson, Z. Zhang, <strong>J. Wang</strong>, and K. Mueller, "Airborne Single Particle Mass Spectrometers (SPLAT II & miniSPLAT) and New Software for Data Visualization and Analysis in a Geo-Spatial Context," Journal of The American Society for Mass Spectrometry, vol. 26, no. 2, pp. 257-270, 2015
+- title: A. Zelenyuk, D. Imre, J. Wilson, Z. Zhang, <strong>J. Wang</strong>, and K. Mueller, "Airborne Single Particle Mass Spectrometers (SPLAT II & miniSPLAT) and New Software for Data Visualization and Analysis in a Geo-Spatial Context," <i>Journal of The American Society for Mass Spectrometry, vol. 26, no. 2, pp. 257-270, 2015</i>
 
-- title: <strong>J. Wang</strong>, F. Zhong, G. Wang, Q. Peng, and X. Qin, “Visual Tracking via Subspace Motion Model,” in British Machine Vision Conference, Bristol, UK, Sept. 2013.
+- title: <strong>J. Wang</strong>, F. Zhong, G. Wang, Q. Peng, and X. Qin, “Visual Tracking via Subspace Motion Model,” in <i>Proc. British Machine Vision Conference, Bristol, UK, Sept. 2013</i>
   pdf: docs/BMVC13.pdf
