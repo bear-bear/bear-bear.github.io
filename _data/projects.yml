@@ -1,13 +1,21 @@
+- title: Causal Structure Investigator
+  thumbnail: "img/csi_thumbnail.png"
+  intro: A comprehensive VA system for causality analysis, capable for analysing multiple models inhabiting in different data subdivisions.
+  papers: 
+    - <strong>J. Wang</strong> and K. Muller, "<a href="docs/VAST17.pdf" target="new">Visual Causality Analysis Made Practical</a>," (to appear) in <i>IEEE Proc. Visual Analytics Science and Technology (VAST17), Pheonix, AZ, Oct. 2017</i>
+  link: "project/csi"
+
 - title: Visual Causality Analyst
-  teasor: "img/vca_teaser.png"
-  abstract: A general and comprehensive visual analytic system for learning causal graph models embedded in multi-dimensional datasets. Taking advantage of both automated algorithms and interactive approaches, the system gets domain users involved in the loop of causal reasoning and is applicable to data in a wide scope of domains.
+  thumbnail: "img/vca_thumbnail.png"
+  intro: A prototype VA framework for causality analysis, features interactive faciliteis for testing causal models derived by inference algorithms.
   papers:
-      - <strong>J. Wang</strong> and K. Muller, "<a href="docs/VAST17.pdf" target="new">Visual Causality Analysis Made Practical</a>," (to appear) in <i>IEEE Proc. Visual Analytics Science and Technology (VAST17), Pheonix, AZ, Oct. 2017</i>
       - <strong>J. Wang</strong> and K. Muller, "<a href="docs/VAST15.pdf" target="new">The Visual Causality Analyst&#58; An Interactive Interface for Causal Reasoning</a>," <i>IEEE Transaction on Visualization and Computer Graphics (VAST15), vol. 22, no. 1, pp. 230-239, 2016</i>
+  link: "project/vca"
 
 - title: Spectra Miner
-  teasor: "img/sm_teaser.png"
-  abstract: A visual analytic framework for analyzing hierarchical relations embedded in a high-dimensional and large-scale dataset, equipped with parallel algorithms implemented on GPU for fast clustering of data and learning the hierarchy. The system is developed intending to facilitate scientific analysis in the domain of aerosol science.
+  thumbnail: "img/sm_thumbnail.png"
+  intro: Analyzing hierarchical relations embedded in big data, equipped with parallel algorithms implemented on GPU for fast clustering and hierarchy building.
   papers:
       - <strong>J. Wang</strong>, A. Zelenyuk, D. Imre, and K. Mueller, "<a href="docs/informatics-04-00024.pdf" target="new">Big Data Management with Incremental K-Means Trees–GPU-Accelerated Construction and Visualization</a>," <i>Informatics, vol. 4, no. 3, pp. 24, 2017</i>
       - <strong>J. Wang</strong>, E. Papenhausen, B. Wang, S. Ha, A. Zelenyuk, and K. Mueller, "<a href="docs/NYSDS17.pdf" target="new">Progressive Clustering of Big Data with GPU Acceleration and Visualization</a>," in <i>IEEE Proc. New York Scientific Data Summit (NYSDS), New York, Aug. 2017</i>
+  link: "project/specm"

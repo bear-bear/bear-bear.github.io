@@ -1,21 +1,16 @@
 <h1>Current Main Projects</h1>
 <hr/>
+<div class="row ">
 {% for p in site.data.projects %}
-<div class="row">
-    <div class="col-md-3">
-        <img class="card-img-top" src="{{ p.teasor }}" alt="{{ p.title }}">
-    </div>
-    <div class="col-md-9">
-        <div class="card-block">
-            <h4 class="card-title">{{ p.title }}</h4>
-            <p class="card-text">{{ p.abstract }}</p>
-            <ul>
-                {% for m in p.papers %}
-                <li>{{ m }}</li>
-                {% endfor %}
-            </ul>
+    <div class="col-xs-12 col-sm-6 col-md-3">
+        <div class="card">
+            <a href="{{ site.baseurl }}/{{ p.link }}"><img class="card-img-top" src="{{ p.thumbnail }}" alt="{{ p.title }}"></a>
+            <div class="card-block">
+                <h4 class="card-title">{{ p.title }}</h4>
+                <p class="card-text">{{ p.intro }}</p>
+            </div>
         </div>
     </div>
+{% endfor %}
 </div>
 <hr/>
-{% endfor %}
