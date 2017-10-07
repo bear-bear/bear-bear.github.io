@@ -42,3 +42,8 @@ plugins:
 
 sass:
   style: compressed
+
+collections:
+  project:
+    output: true
+    permalink: /project/:name
