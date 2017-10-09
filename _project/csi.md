@@ -16,13 +16,10 @@ The Causal Structure Investigator interface (a) Control panel for reading in dat
 
 #### Paper
 J. Wang, K. Mueller, “Visual Causality Analysis Made Practical,” *IEEE Proc. Visual Analytics Science and Technology (VAST17)*, Pheonix, AZ, Oct. 2017
+[Paper]({{ site.baseurl }}/docs/VAST17.pdf) / [Talk]({{ site.baseurl }}/docs/VAST17talk.pdf)
 
 #### Abstract
 Deriving the exact casual model that governs the relations between variables in a multidimensional dataset is difficult in practice. It is because causal inference algorithms by themselves typically cannot encode an adequate amount of domain knowledge to break all ties. Visual analytic approaches are considered a feasible alternative to fully automated methods. However, their application in real-world scenarios can be tedious. This paper focuses on these practical aspects of visual causality analysis. The most imperative of these aspects is posed by Simpson’ Paradox. It implies the existence of multiple causal models differing in both structure and parameter depending on how the data is subdivided. We propose a comprehensive interface that engages human experts in identifying these subdivisions and allowing them to establish the corresponding causal models via a rich set of interactive facilities. Other features of our interface include: (1) a new causal network visualization that emphasizes the flow of causal dependencies, (2) a model scoring mechanism with visual hints for interactive model refinement, and (3) flexible approaches for handling heterogeneous data. Various real-world data examples are given. 
 
-#### Video overview:
+#### Video Overview:
 <iframe src="https://player.vimeo.com/video/237302981?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-#### Downloads
-
-[Paper]({{ site.baseurl }}/docs/VAST17.pdf) / [Talk]({{ site.baseurl }}/docs/VAST17talk.pdf)
