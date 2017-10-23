@@ -1,22 +1,27 @@
 - title: <strong>J. Wang</strong> and K. Muller, "Visual Causality Analysis Made Practical," in <i>IEEE Proc. Visual Analytics Science and Technology (VAST17)</i>, Pheonix, AZ, Oct. 2017
+  type: "conference"
   pdf: docs/VAST17.pdf
   ppt: docs/VAST17talk.pdf
   website: "project/csi"
   video: "https://vimeo.com/237302981"
 
 - title: <strong>J. Wang</strong>, "Visual Causality Analysis", in <i>IEEE VIS Doctoral Colloquium</i>, Pheonix, AZ, Oct. 2017
+  type: "workshop"
   pdf: docs/VAST17DC.pdf
 
 - title: <strong>J. Wang</strong>, A. Zelenyuk, D. Imre, and K. Mueller, "Big Data Management with Incremental K-Means Trees–GPU-Accelerated Construction and Visualization," <i>Informatics</i>, vol. 4, no. 3, pp. 24, 2017
+  type: journal
   pdf: docs/informatics-04-00024.pdf
   doi: 10.3390/informatics4030024
   doi-link: http://dx.doi.org/10.3390/informatics4030024
 
 - title: <strong>J. Wang</strong>, E. Papenhausen, B. Wang, S. Ha, A. Zelenyuk, and K. Mueller, "Progressive Clustering of Big Data with GPU Acceleration and Visualization," in <i>IEEE Proc. New York Scientific Data Summit (NYSDS17)</i>, New York, Aug. 2017
+  type: "conference"
   pdf: docs/NYSDS17.pdf
   ppt: docs/NYSDS17talk.ppsx
 
 - title: <strong>J. Wang</strong> and K. Muller, <i>"The Visual Causality Analyst&#58; An Interactive Interface for Causal Reasoning," IEEE Transaction on Visualization and Computer Graphics (VAST15)</i>, vol. 22, no. 1, pp. 230-239, 2016
+  type: "journal"
   pdf: docs/VAST15.pdf
   ppt: docs/VAST15talk.ppsx
   doi: 10.1109/TVCG.2015.2467931
@@ -25,6 +30,8 @@
   video: "https://vimeo.com/237302515"
 
 - title: A. Zelenyuk, D. Imre, J. Wilson, Z. Zhang, <strong>J. Wang</strong>, and K. Mueller, "Airborne Single Particle Mass Spectrometers (SPLAT II & miniSPLAT) and New Software for Data Visualization and Analysis in a Geo-Spatial Context," <i>Journal of The American Society for Mass Spectrometry</i>, vol. 26, no. 2, pp. 257-270, 2015
+  type: "journal"
 
-- title: <strong>J. Wang</strong>, F. Zhong, G. Wang, Q. Peng, and X. Qin, “Visual Tracking via Subspace Motion Model,” in <i>Proc. British Machine Vision Conference</i>, Bristol, UK, Sept. 2013
+- title: <strong>J. Wang</strong>, F. Zhong, G. Wang, Q. Peng, and X. Qin, “Visual Tracking via Subspace Motion Model,” in <i>Proc. British Machine Vision Conference (BMVC13)</i>, Bristol, UK, Sept. 2013
+  type: "conference"
   pdf: docs/BMVC13.pdf

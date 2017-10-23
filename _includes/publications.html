@@ -1,6 +1,8 @@
-<h1>Publications</h1>
+<h1>Publications (Refereed)</h1>
+<h3>Journal Papers</h3>
 <ul>
 {% for p in site.data.publications %}
+    {% if p.type == "journal" %}
     <li><p>{{ p.title }} 
         {% if p.pdf %}
         <a href="{{ p.pdf }}" target="new">pdf</a>
@@ -18,5 +20,54 @@
         / <a href="{{ p.video }}" target="new">video</a>
         {% endif %}
     </p></li>
+    {% endif %}
+{% endfor %}
+</ul>
+<h3>Conference Papers</h3>
+<ul>
+{% for p in site.data.publications %}
+    {% if p.type == "conference" %}
+    <li><p>{{ p.title }} 
+        {% if p.pdf %}
+        <a href="{{ p.pdf }}" target="new">pdf</a>
+        {% endif %}
+        {% if p.ppt %}
+        / <a href="{{ p.ppt }}">talk</a>
+        {% endif %}
+        {% if p.doi %}
+        / <a href="{{ p.doi-link }}" target="new">doi</a>
+        {% endif %}
+        {% if p.website %}
+        / <a href="{{ site.baseurl }}/{{ p.website }}">website</a>
+        {% endif %}
+        {% if p.video %}
+        / <a href="{{ p.video }}" target="new">video</a>
+        {% endif %}
+    </p></li>
+    {% endif %}
+{% endfor %}
+</ul>
+<h3>Workshop Papers</h3>
+<ul>
+{% for p in site.data.publications %}
+    {% if p.type == "workshop" %}
+    <li><p>{{ p.title }} 
+        {% if p.pdf %}
+        <a href="{{ p.pdf }}" target="new">pdf</a>
+        {% endif %}
+        {% if p.ppt %}
+        / <a href="{{ p.ppt }}">talk</a>
+        {% endif %}
+        {% if p.doi %}
+        / <a href="{{ p.doi-link }}" target="new">doi</a>
+        {% endif %}
+        {% if p.website %}
+        / <a href="{{ site.baseurl }}/{{ p.website }}">website</a>
+        {% endif %}
+        {% if p.video %}
+        / <a href="{{ p.video }}" target="new">video</a>
+        {% endif %}
+    </p></li>
+    {% endif %}
 {% endfor %}
 </ul>

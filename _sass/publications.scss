@@ -5,12 +5,22 @@
         font-size: 2em;
         margin-bottom: 20px;
     }
+    h3 {
+        font-size: 1.1em;
+        font-weight: 400;
+        padding: 2px;
+        padding-left: 5px;
+        margin-bottom: 10px;
+        background-color: #E3F2FD;
+        border-radius: 5px;
+    }
     >ul {
-        padding-left: 20px;
+        padding-left: 40px;
+        padding-right: 10px;
         >li {
             >p {
                 font-size: 1em;
-                line-height: 1em;
+                line-height: 1.1em;
                 margin-bottom: 0em;
                 margin-top: 0.5em;
                 text-align: justify;
