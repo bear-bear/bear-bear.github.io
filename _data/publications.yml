@@ -31,6 +31,8 @@
 
 - title: A. Zelenyuk, D. Imre, J. Wilson, Z. Zhang, <strong>J. Wang</strong>, and K. Mueller, "Airborne Single Particle Mass Spectrometers (SPLAT II & miniSPLAT) and New Software for Data Visualization and Analysis in a Geo-Spatial Context," <i>Journal of The American Society for Mass Spectrometry</i>, vol. 26, no. 2, pp. 257-270, 2015
   type: "journal"
+  doi: 10.1007/s13361-014-1043-4
+  doi-link: https://doi.org/10.1007/s13361-014-1043-4
 
 - title: <strong>J. Wang</strong>, F. Zhong, G. Wang, Q. Peng, and X. Qin, “Visual Tracking via Subspace Motion Model,” in <i>Proc. British Machine Vision Conference (BMVC13)</i>, Bristol, UK, Sept. 2013
   type: "conference"

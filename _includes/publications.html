@@ -3,7 +3,7 @@
 <ul>
 {% for p in site.data.publications %}
     {% if p.type == "journal" %}
-    <li><p>{{ p.title }} 
+    <li><p>{{ p.title }}
         {% if p.pdf %}
         <a href="{{ p.pdf }}" target="new">pdf</a>
         {% endif %}
