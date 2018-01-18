@@ -1,15 +1,14 @@
+- title: Passed my PhD prelim in Nov. 2017!
+  content:
+    - Thesis proposal title - <i>Visual Causality Analysis</i>
+  age: new
+
 - title: Recent activities at VIS 2017 in Phoenix, AZ
   content: 
     - Doctoral colloquium talk - <i>Visual Causality Analysis</i> (4 page <a href="docs/VAST17DC.pdf">summary</a>)
     - VAST paper - <i><a href="docs/VAST17.pdf">Visual Causality Analysis Made Practical</a></i>, co-authored with K. Mueller
     - VAST talk slides are avaible <a href="docs/VAST17talk.pdf" target="new">here</a>
   age: new
-
-- title: Upcoming activities at VIS 2017 in Phoenix, AZ
-  content: 
-    - Doctoral colloquium talk - <i>Visual Causality Analysis</i>
-    - VAST paper - <i><a href="docs/VAST17.pdf">Visual Causality Analysis Made Practical</a></i>, co-authored with K. Mueller
-  age: old
 
 - title: Give a talk at New York Scientific Data Summit (NYSDS) 2017 in New York
   content:
